@@ -1,0 +1,162 @@
+
+body {
+    background: linear-gradient(to bottom, rgb(5, 94, 17) 46%, white 68%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+    height: 100%;
+  }
+
+html{
+  height: 100%;
+  }
+
+#container {
+  margin-top: 50px;
+  }
+
+#header {
+    font-size: 61px;
+    font-family: arial;
+    font-weight: 800;
+    color: white;
+    text-shadow: black 1px 1px 4px;
+  }
+
+  #header2 {
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #f0f0f0;
+    text-shadow: #000 1px 1px 5px;
+    margin-left: 28px;
+    }
+
+#fluid {
+  margin-top: 210px;
+}
+
+nav{
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'calibri', 'Cambria', 'Cochin', Georgia, Times, serif;
+}
+ 
+.navbar-brand{
+margin-left: 150px;
+}
+
+#navbarSupportedContent {
+  justify-content: left;
+  margin-top: 7px;
+  margin-bottom: 5px;
+}
+
+table{margin-top: 40px;}
+
+section{
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(images/footer.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+    background-blend-mode: darken;
+    height: 72%;
+}
+
+#first-p {
+  font-size: 30px;
+  font-family: arial black;
+  font-weight: bolder;
+  padding-top: 40px;  
+  margin-top: 50px;
+}
+
+#line{
+  font-size: 38px;
+  font-weight: bolder;
+  color: white;
+  line-height: 0px;
+  margin-top: 1px;
+}
+#a{
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+#footer-2{background-color: rgba(7, 10, 39, 0.952); padding-bottom: 18px; font-size: 19px;}
+
+#book {margin-left: 100px;}
+
+
+
+#ai-book{margin-left: 100px; font-family: calibri; font-size: 19px; font-weight: lighter;}
+
+#link{color: white; font-weight: lighter;}
+
+#readmore {text-decoration: none; color: white; font-weight: lighter;}
+
+
+#p{
+  margin-top: 48px;
+  margin-bottom: 0px;
+}
+
+#line2{color: cyan; margin-left: 100px;}
+
+#quick-link{ margin-left: 150px; text-decoration: none; color: white; font-weight: lighter;}
+
+#menu{text-decoration: none; color: white; margin-left: 150px; margin-top: 48px; font-weight: lighter;}
+
+#contact {margin-left: 20px;}
+
+#phone {margin-left: 20px; text-decoration: none; color: white; font-weight: lighter;}
+
+#email{margin-left: 20px; text-decoration: none; color: white; font-weight: lighter;}
+
+#line3{color: cyan; margin-left: 150px;}
+
+#line4{color: cyan; margin-left: 20px;}
+
+#color{background-color:rgb(68, 150, 182); padding: 5px;}
+
+#whitespace{background-color: white; padding: 15px;}
+
+
+#footer-2{background-color: rgba(7, 10, 39, 0.952); padding-bottom: 18px; font-size: 19px;}
+
+#book {margin-left: 100px;}
+
+#link{color: white; font-weight: lighter;}
+
+#readmore {text-decoration: none; color: white; font-weight: lighter; margin-left: 100px;}
+
+
+#p{
+  margin-top: 48px;
+  margin-bottom: 0px;
+}
+
+#line2{color: cyan; margin-left: 100px;}
+
+#quick-link{ margin-left: 150px; text-decoration: none; color: white;}
+
+#menu{text-decoration: none; color: white; margin-left: 150px; margin-top: 48px; font-weight: lighter;}
+
+#contact {margin-left: 20px;}
+
+#phone {margin-left: 20px; text-decoration: none; color: white; font-weight: lighter;}
+
+#email{margin-left: 20px; text-decoration: none; color: white; font-weight: lighter;}
+
+#line3{color: cyan; margin-left: 150px;}
+
+#line4{color: cyan; margin-left: 20px;}
+
+#color{background-color:rgb(68, 150, 182); padding: 5px;}
+
+#whitespace{background-color: white; padding: 15px;}
+
+#home{
+  color: white; margin-left: 150px; font-weight: lighter;
+}
